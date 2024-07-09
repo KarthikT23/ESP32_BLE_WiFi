@@ -72,7 +72,8 @@ Connect the Vcc pin of the DHT11 to 3.3V pin of ESP32. Connect the GND pin of DH
 
 
 
-
+# Setup 
+![circuit](https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/1acb65fd-5c17-40eb-9328-04f960988220)
 
 
 
