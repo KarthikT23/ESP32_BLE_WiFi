@@ -84,6 +84,25 @@ Connect the Vcc pin of the DHT11 to 3.3V pin of ESP32. Connect the GND pin of DH
 ![circuit](https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/1acb65fd-5c17-40eb-9328-04f960988220)
 
 
+# DHT11_Test Output
+![output](https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/aad9508d-019c-422d-a250-645c49a98180)
+
+
+
+# Bluetooth_DHT11_Broadcasting Output
+Bluetooth connected on phone
+![bluetooth connected](https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/f8dd5ecc-7ba6-489c-a45f-0bcffc2358ff)
+
+
+
+Output in Arduino IDE
+![device connected](https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/188030da-2dd8-4e89-9eb2-cf1c5170c898)
+
+
+
+
+Output in nRF Connector App
+![output2](https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/aa1d3fb8-aa43-4662-af91-440ecc90fb16)
 
 
 
