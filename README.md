@@ -26,6 +26,10 @@ The ESP32_DHT11_BLE_WiFi code takes up a lot of space and may not be able to fla
 If you see an Error like this: “Sketch too big” during the uploading process, in Arduino IDE go to Tools > Partition scheme > choose anything that has more than 1.4MB APP, for example: “Huge APP (3MB No OTA/1MB SPIFFS“.
 If you don’t have the partition scheme option on your Tools menu, you need to select a different ESP32 board model—for example, the ESP32 Wrover Module.
 
+![ESP32-selecting-different-partition-scheme](https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/a83516fe-9c8c-4a12-884f-01313901e5a4)
+
+
+
 
 
 # Requirements
