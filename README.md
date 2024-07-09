@@ -5,6 +5,8 @@ How to transfer Temperature and Humidity values of a DHT11 Sensor through Blueto
 
 
 
+
+
 Note: Install the necessary libraries (BLE, WiFi, DHT sensor library by Adafruit, BLE2902). Run the codes in the following order to get familiar with the entire process
 
 1) DHT11_Test
@@ -17,6 +19,12 @@ Note: Install the necessary libraries (BLE, WiFi, DHT sensor library by Adafruit
 
 
 4) ESP32_DHT11_BLE_WiFi
+
+
+
+The ESP32_DHT11_BLE_WiFi code takes up a lot of space and may not be able to flash with the default settings on some chips.
+If you see an Error like this: “Sketch too big” during the uploading process, in Arduino IDE go to Tools > Partition scheme > choose anything that has more than 1.4MB APP, for example: “Huge APP (3MB No OTA/1MB SPIFFS“.
+If you don’t have the partition scheme option on your Tools menu, you need to select a different ESP32 board model—for example, the ESP32 Wrover Module.
 
 
 
