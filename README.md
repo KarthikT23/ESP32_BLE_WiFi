@@ -64,6 +64,9 @@ Note: Install the necessary libraries (BLE, WiFi, DHT sensor library by Adafruit
 
 # Circuit Diagram
 ![circuit](https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/fc9e0f46-34ee-4bb5-990b-839eaf408a8e)
+
+
+
 Use any GPIO Pin, but mention it correctly in the code!
 Connect the Vcc pin of the DHT11 to 3.3V pin of ESP32. Connect the GND pin of DHT11 to GND of ESP32. Connect the Data Pin to GPIO 26, but you can connect it to any other digital pin. Also connect a pull-up resistor of 4.7K ohm to the Data Pin.
 
