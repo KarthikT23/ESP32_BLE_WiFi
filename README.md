@@ -114,7 +114,7 @@ Arduino IDE Output
 ![output1](https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/c6eadff0-2e39-4b95-8419-9cf3dd23668d)
 
 
-
+<img src = "https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/f8dd5ecc-7ba6-489c-a45f-0bcffc2358ff" width = "48">
 
 
 nRF Connector App Output
