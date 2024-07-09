@@ -96,7 +96,7 @@ Connect the Vcc pin of the DHT11 to 3.3V pin of ESP32. Connect the GND pin of DH
 # Bluetooth_DHT11_Broadcasting Output
 Bluetooth connected on phone
 ![bluetooth connected](https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/f8dd5ecc-7ba6-489c-a45f-0bcffc2358ff|width=100)
-<img src = "https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/f8dd5ecc-7ba6-489c-a45f-0bcffc2358ff" width = "200" height = "1000">
+<img src = "https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/f8dd5ecc-7ba6-489c-a45f-0bcffc2358ff" width = "300" height = "500">
 
 
 Output in Arduino IDE
