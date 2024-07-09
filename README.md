@@ -95,7 +95,6 @@ Connect the Vcc pin of the DHT11 to 3.3V pin of ESP32. Connect the GND pin of DH
 
 # Bluetooth_DHT11_Broadcasting Output
 Bluetooth connected on phone
-![bluetooth connected](https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/f8dd5ecc-7ba6-489c-a45f-0bcffc2358ff|width=100)
 <img src = "https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/f8dd5ecc-7ba6-489c-a45f-0bcffc2358ff" width = "300" height = "500">
 
 
@@ -106,7 +105,8 @@ Output in Arduino IDE
 
 
 Output in nRF Connector App
-![output2](https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/aa1d3fb8-aa43-4662-af91-440ecc90fb16)
+<img src = "https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/aa1d3fb8-aa43-4662-af91-440ecc90fb16" width = "300" height = "500">
+
 
 
 # BLE_DHT11_Text Output
@@ -117,8 +117,7 @@ Arduino IDE Output
 
 
 nRF Connector App Output
-![output2](https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/4ae9ca83-e7c1-41b1-90e7-05e2d2563534)
-
+<img src = "https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/4ae9ca83-e7c1-41b1-90e7-05e2d2563534" width = "300" height = "500">
 
 
 
@@ -126,17 +125,18 @@ nRF Connector App Output
 
 # ESP32_DHT11_BLE_WiFi Output
 ESP32 connected to mobile hotspot
-![hotspot connected](https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/b29621fd-6b29-4437-a81a-2e4ab56a78b0)
+<img src = "https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/b29621fd-6b29-4437-a81a-2e4ab56a78b0" width = "300" height = "500">
+
 
 
 nRF Connector App Output
-![Screenshot_20240709-230457](https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/40c357c4-8e80-41e9-8e54-b57d9498c745)
+<img src = "https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/40c357c4-8e80-41e9-8e54-b57d9498c745" width = "300" height = "500">
 
 
 
+<img src = "https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/53c00ddf-400f-4fae-861d-406734b9597a" width = "300" height = "500">
 
 
-![write wifi credentials](https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/53c00ddf-400f-4fae-861d-406734b9597a)
 
 
 
