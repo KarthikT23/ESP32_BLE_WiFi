@@ -105,8 +105,54 @@ Output in nRF Connector App
 ![output2](https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/aa1d3fb8-aa43-4662-af91-440ecc90fb16)
 
 
+# BLE_DHT11_Text Output
+Arduino IDE Output
+![output1](https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/c6eadff0-2e39-4b95-8419-9cf3dd23668d)
+
+
+
+
+
+nRF Connector App Output
+![output2](https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/4ae9ca83-e7c1-41b1-90e7-05e2d2563534)
+
+
+
+
+
+
+# ESP32_DHT11_BLE_WiFi Output
+ESP32 connected to mobile hotspot
+![hotspot connected](https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/b29621fd-6b29-4437-a81a-2e4ab56a78b0)
+
+
+nRF Connector App Output
+![Screenshot_20240709-230457](https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/40c357c4-8e80-41e9-8e54-b57d9498c745)
+
+
+
+
+
+![write wifi credentials](https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/53c00ddf-400f-4fae-861d-406734b9597a)
+
+
+
+
+
+
+Arduino IDE Output
+![wifi_output](https://github.com/KarthikT23/Nineti_Assignment/assets/119528503/d5a4182f-d710-4341-80eb-c3f31137d8d9)
+
+
+
+
+
+
+
+
 
 # References
+
 1. https://randomnerdtutorials.com/esp32-ble-server-environmental-sensing-service/
 
 
