@@ -1,5 +1,4 @@
-# Nineti_Assignment
-Nineti IoT Internship Assignment - Low Energy Bluetooth Service Broadcasting using ESP32
+Low Energy Bluetooth Service Broadcasting using ESP32
 
 How to transfer Temperature and Humidity values of a DHT11 Sensor through Bluetooth Low Energy (BLE) using an ESP32 Dev Board, to be viewed on a smartphone. Additionally, connecting to WiFi Hotspot using credentials sent over Bluetooth from smartphone.
 
